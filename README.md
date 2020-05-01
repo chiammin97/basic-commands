@@ -2,5 +2,5 @@
 
 | Command | Description |
 | --- | ---       |
-| git init | To initialise a git repository for a new or existing project. <br> How to : git init in the root of your project directory.|
+| `git init` | To initialise a git repository for a new or existing project. <br> *How to:* git init in the root of project directory.|
 | Pipe     | \|        |
