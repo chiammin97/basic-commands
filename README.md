@@ -7,3 +7,4 @@
 | `git status` |  To check the status of files you’ve changed since the last commit. |
 | `git add` | Adds changes to stage/index in working directory. |
 | `git commit` | Commits changes <br> **How to:** git commit -m”commit message” |
+| `git push/git pull` | Push or Pull changes to remote. If you have added and committed your changes and you want to push them. Or if your remote has updated and you want those latest changes. |
